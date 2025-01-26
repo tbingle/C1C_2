@@ -22,4 +22,12 @@ let departmentupdate = "Senior Management"
 console.log(departmentupdate);
 let posisition = "Senior";
 console.log(posisition);
+let customer1 = ["Susan", "Susan34@gmail.com","$73.31"];
+let customer2 = ["WIll","WIll99@gmail.com","$105,61"];
+let customer3 = ["Jace","Jace13@gmail.com", "$35.22"];
+let customer4 = ["Owen","Owen12@gmail.com","$19.23"];
+console.log(customer1)
+console.log(customer2)
+console.log(customer3)
+console.log(customer4)
 
