@@ -30,4 +30,11 @@ console.log(customer1)
 console.log(customer2)
 console.log(customer3)
 console.log(customer4)
-
+let Order = ("OrderID");
+let Order2 = ("customerName");
+let Order3 = ("Amount");
+console.log (Order);
+console.log (Order2);
+console.log (Order3);
+let Tax = ("Tax-10%");
+console.log (Tax);
